@@ -1,4 +1,4 @@
-MissionPlanner
+EEPISat
 ==============
 
-APM Mission Planner
+Nanosatellite
